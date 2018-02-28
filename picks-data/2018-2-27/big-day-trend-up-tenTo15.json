@@ -1,0 +1,70 @@
+{
+  "10": [
+    {
+      "ticker": "APTS",
+      "price": 14.06
+    }
+  ],
+  "35": [
+    {
+      "ticker": "APTS",
+      "price": 13.845
+    },
+    {
+      "ticker": "COE",
+      "price": 9.98
+    },
+    {
+      "ticker": "SOXS",
+      "price": 10.89
+    },
+    {
+      "ticker": "JAG",
+      "price": 12.545
+    }
+  ],
+  "90": [
+    {
+      "ticker": "APTS",
+      "price": 14.085
+    },
+    {
+      "ticker": "JAG",
+      "price": 12.52
+    },
+    {
+      "ticker": "CATO",
+      "price": 11.41
+    },
+    {
+      "ticker": "USLV",
+      "price": 10.1149
+    },
+    {
+      "ticker": "KIM",
+      "price": 14.96
+    }
+  ],
+  "223": [
+    {
+      "ticker": "LOOP",
+      "price": 12.8252
+    },
+    {
+      "ticker": "KALV",
+      "price": 10.3101
+    },
+    {
+      "ticker": "ASNS",
+      "price": 14.02
+    },
+    {
+      "ticker": "AQXP",
+      "price": 14.45
+    },
+    {
+      "ticker": "VRNA",
+      "price": 14.5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "WAAS",
+      "price": 13.47
+    },
+    {
+      "ticker": "TOCA",
+      "price": 11.05
+    },
+    {
+      "ticker": "RYI",
+      "price": 10.65
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14.07
+    },
+    {
+      "ticker": "MNTX",
+      "price": 10.76
+    }
+  ],
+  "250": [
+    {
+      "ticker": "WAAS",
+      "price": 13.495
+    },
+    {
+      "ticker": "TOCA",
+      "price": 10.93
+    },
+    {
+      "ticker": "RYI",
+      "price": 10.8
+    },
+    {
+      "ticker": "CMTA",
+      "price": 14
+    },
+    {
+      "ticker": "MNTX",
+      "price": 10.83
+    }
+  ]
+}

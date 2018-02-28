@@ -1,0 +1,60 @@
+{
+  "5": [
+    {
+      "ticker": "TNDM",
+      "price": 3.16
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.67
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.73
+    },
+    {
+      "ticker": "ECYT",
+      "price": 4.39
+    }
+  ],
+  "16": [
+    {
+      "ticker": "TNDM",
+      "price": 3.192
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.6979
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.555
+    },
+    {
+      "ticker": "ECYT",
+      "price": 4.3166
+    }
+  ],
+  "30": [
+    {
+      "ticker": "TNDM",
+      "price": 3.2
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.7018
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.475
+    },
+    {
+      "ticker": "ECYT",
+      "price": 4.24
+    },
+    {
+      "ticker": "NSYS",
+      "price": 3.785
+    }
+  ]
+}

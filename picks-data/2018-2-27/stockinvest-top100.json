@@ -1,0 +1,74 @@
+{
+  "7": [
+    {
+      "ticker": "CERC",
+      "price": 5.17
+    },
+    {
+      "ticker": "SB",
+      "price": 3.84
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.2
+    }
+  ],
+  "60": [
+    {
+      "ticker": "CERC",
+      "price": 5.32
+    },
+    {
+      "ticker": "SB",
+      "price": 3.775
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.24
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.2
+    }
+  ],
+  "123": [
+    {
+      "ticker": "CERC",
+      "price": 5.3396
+    },
+    {
+      "ticker": "SB",
+      "price": 3.81
+    },
+    {
+      "ticker": "PLM",
+      "price": 1.2475
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.175
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.2327
+    }
+  ],
+  "263": [
+    {
+      "ticker": "CERC",
+      "price": 5.2
+    },
+    {
+      "ticker": "SB",
+      "price": 3.9
+    },
+    {
+      "ticker": "TUES",
+      "price": 3.15
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.22
+    }
+  ]
+}

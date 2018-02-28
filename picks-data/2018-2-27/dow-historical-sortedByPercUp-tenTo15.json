@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "PML",
+      "price": 12.3499
+    },
+    {
+      "ticker": "APLP",
+      "price": 14.14
+    },
+    {
+      "ticker": "TEI",
+      "price": 11.856
+    },
+    {
+      "ticker": "MHI",
+      "price": 11.46
+    },
+    {
+      "ticker": "NUM",
+      "price": 12.775
+    }
+  ],
+  "73": [
+    {
+      "ticker": "NMT",
+      "price": 13.01
+    },
+    {
+      "ticker": "PML",
+      "price": 12.34
+    },
+    {
+      "ticker": "TEI",
+      "price": 11.84
+    },
+    {
+      "ticker": "MHI",
+      "price": 11.38
+    },
+    {
+      "ticker": "APLP",
+      "price": 13.97
+    }
+  ],
+  "196": [
+    {
+      "ticker": "NMT",
+      "price": 13.02
+    },
+    {
+      "ticker": "PML",
+      "price": 12.337
+    },
+    {
+      "ticker": "APLP",
+      "price": 14.05
+    },
+    {
+      "ticker": "MHI",
+      "price": 11.36
+    },
+    {
+      "ticker": "TEI",
+      "price": 11.8101
+    }
+  ]
+}

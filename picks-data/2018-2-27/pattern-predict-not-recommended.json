@@ -1,0 +1,24 @@
+{
+  "3": [
+    {
+      "ticker": "IDXG",
+      "price": 1.01
+    },
+    {
+      "ticker": "ACHV",
+      "price": 1.349
+    },
+    {
+      "ticker": "STXS",
+      "price": 0.74
+    },
+    {
+      "ticker": "INOD",
+      "price": 1.15
+    },
+    {
+      "ticker": "SDR",
+      "price": 0.99
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "AKTS",
+      "price": 6.1798
+    },
+    {
+      "ticker": "VTVT",
+      "price": 6.1968
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.295
+    },
+    {
+      "ticker": "VCEL",
+      "price": 8.1465
+    },
+    {
+      "ticker": "IIJI",
+      "price": 9.83
+    }
+  ],
+  "73": [
+    {
+      "ticker": "AKTS",
+      "price": 6.19
+    },
+    {
+      "ticker": "VTVT",
+      "price": 6.071
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.25
+    },
+    {
+      "ticker": "VCEL",
+      "price": 7.9
+    },
+    {
+      "ticker": "IIJI",
+      "price": 9.83
+    }
+  ],
+  "196": [
+    {
+      "ticker": "AKTS",
+      "price": 6.01
+    },
+    {
+      "ticker": "VTVT",
+      "price": 6.07
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.3798
+    },
+    {
+      "ticker": "VCEL",
+      "price": 8.0501
+    },
+    {
+      "ticker": "CERC",
+      "price": 5.26
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "3": [
+    {
+      "ticker": "AAU",
+      "price": 0.8979
+    },
+    {
+      "ticker": "TGA",
+      "price": 1.3406
+    },
+    {
+      "ticker": "DYSL",
+      "price": 1.29
+    },
+    {
+      "ticker": "AMMA",
+      "price": 0.62
+    },
+    {
+      "ticker": "CFMS",
+      "price": 1.425
+    }
+  ]
+}

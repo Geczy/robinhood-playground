@@ -38,10 +38,10 @@ class HashTable {
         .map(f => f.split('.')[0])
         .sort((a, b) => new Date(a) - new Date(b));
 
-    console.log(sortedFiles);
 
-    let threeMostRecent = sortedFiles.slice(-2);
 
+    let threeMostRecent = sortedFiles.slice(-1);
+    console.log(threeMostRecent);
 
     const stratResults = new HashTable();
     for (let day of threeMostRecent) {

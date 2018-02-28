@@ -1,0 +1,46 @@
+{
+  "193": [
+    {
+      "ticker": "HTBX",
+      "price": 2.73
+    },
+    {
+      "ticker": "CALI",
+      "price": 3.29
+    },
+    {
+      "ticker": "MBVX",
+      "price": 1.97
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.5951
+    },
+    {
+      "ticker": "P",
+      "price": 4.38
+    }
+  ],
+  "253": [
+    {
+      "ticker": "HTBX",
+      "price": 2.75
+    },
+    {
+      "ticker": "CALI",
+      "price": 3.3
+    },
+    {
+      "ticker": "MBVX",
+      "price": 1.96
+    },
+    {
+      "ticker": "ATOS",
+      "price": 0.5962
+    },
+    {
+      "ticker": "P",
+      "price": 4.39
+    }
+  ]
+}

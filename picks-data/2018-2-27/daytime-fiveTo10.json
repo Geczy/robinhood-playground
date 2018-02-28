@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "WSCI",
+      "price": 5.2142
+    },
+    {
+      "ticker": "ASPU",
+      "price": 8.12
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.97
+    },
+    {
+      "ticker": "CCO",
+      "price": 5.075
+    },
+    {
+      "ticker": "GSVC",
+      "price": 7.1049
+    }
+  ],
+  "260": [
+    {
+      "ticker": "ASPU",
+      "price": 7.96
+    },
+    {
+      "ticker": "WSCI",
+      "price": 5.175
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.9401
+    },
+    {
+      "ticker": "ENIC",
+      "price": 6.19
+    },
+    {
+      "ticker": "WPG",
+      "price": 6.635
+    }
+  ]
+}

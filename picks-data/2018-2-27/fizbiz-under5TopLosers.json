@@ -1,0 +1,134 @@
+{
+  "2": [
+    {
+      "ticker": "NSPR",
+      "price": 2.7105
+    },
+    {
+      "ticker": "FIT",
+      "price": 5.035
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.73
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.46
+    },
+    {
+      "ticker": "SSC",
+      "price": 1.6998
+    }
+  ],
+  "12": [
+    {
+      "ticker": "NSPR",
+      "price": 2.757
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.73
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.37
+    },
+    {
+      "ticker": "FIT",
+      "price": 4.9501
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.5002
+    }
+  ],
+  "75": [
+    {
+      "ticker": "NSPR",
+      "price": 2.6801
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.6362
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.265
+    },
+    {
+      "ticker": "VNRX",
+      "price": 2.76
+    },
+    {
+      "ticker": "FIT",
+      "price": 4.83
+    }
+  ],
+  "120": [
+    {
+      "ticker": "NSPR",
+      "price": 2.6901
+    },
+    {
+      "ticker": "VNRX",
+      "price": 2.5901
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.5805
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.3698
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.235
+    }
+  ],
+  "180": [
+    {
+      "ticker": "NSPR",
+      "price": 2.6754
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.3472
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.6299
+    },
+    {
+      "ticker": "CLWT",
+      "price": 2.8
+    },
+    {
+      "ticker": "FIT",
+      "price": 4.82
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NSPR",
+      "price": 2.57
+    },
+    {
+      "ticker": "ZX",
+      "price": 0.99
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.58
+    },
+    {
+      "ticker": "SN",
+      "price": 3.26
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.385
+    }
+  ]
+}

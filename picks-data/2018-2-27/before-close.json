@@ -1,0 +1,22 @@
+{
+  "351": [
+    {
+      "ticker": "PESI",
+      "price": 4
+    },
+    {
+      "ticker": "ATLC",
+      "price": 2.2489
+    }
+  ],
+  "381": [
+    {
+      "ticker": "ATLC",
+      "price": 2.2489
+    },
+    {
+      "ticker": "PESI",
+      "price": 4
+    }
+  ]
+}

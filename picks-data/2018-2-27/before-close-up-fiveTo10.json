@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "FTK",
+      "price": 6.265
+    },
+    {
+      "ticker": "ALRN",
+      "price": 8.35
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.73
+    },
+    {
+      "ticker": "CCLP",
+      "price": 7.56
+    },
+    {
+      "ticker": "JILL",
+      "price": 8.4
+    }
+  ],
+  "380": [
+    {
+      "ticker": "AAC",
+      "price": 9.53
+    },
+    {
+      "ticker": "FTK",
+      "price": 6.25
+    },
+    {
+      "ticker": "ALRN",
+      "price": 8.45
+    },
+    {
+      "ticker": "TRIB",
+      "price": 5.6
+    },
+    {
+      "ticker": "GEMP",
+      "price": 6.78
+    }
+  ]
+}

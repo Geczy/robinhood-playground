@@ -1,0 +1,41 @@
+{
+  "2": [],
+  "12": [
+    {
+      "ticker": "BLDP",
+      "price": 3.56
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.42
+    }
+  ],
+  "75": [
+    {
+      "ticker": "ACHN",
+      "price": 3.43
+    }
+  ],
+  "120": [
+    {
+      "ticker": "BIOS",
+      "price": 3.195
+    },
+    {
+      "ticker": "ACTA",
+      "price": 0.97
+    }
+  ],
+  "180": [
+    {
+      "ticker": "BIOS",
+      "price": 3.1325
+    }
+  ],
+  "380": [
+    {
+      "ticker": "GSAT",
+      "price": 0.9453
+    }
+  ]
+}

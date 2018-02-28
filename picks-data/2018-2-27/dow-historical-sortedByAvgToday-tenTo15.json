@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "IFMK",
+      "price": 12.02
+    },
+    {
+      "ticker": "QBAK",
+      "price": 10.5721
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.4
+    },
+    {
+      "ticker": "INAP",
+      "price": 13.9
+    },
+    {
+      "ticker": "KALA",
+      "price": 14.65
+    }
+  ],
+  "73": [
+    {
+      "ticker": "VERI",
+      "price": 14.6
+    },
+    {
+      "ticker": "IFMK",
+      "price": 12.02
+    },
+    {
+      "ticker": "QBAK",
+      "price": 10.266
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.33
+    },
+    {
+      "ticker": "ARL",
+      "price": 13.13
+    }
+  ],
+  "196": [
+    {
+      "ticker": "VERI",
+      "price": 14.61
+    },
+    {
+      "ticker": "IFMK",
+      "price": 12.02
+    },
+    {
+      "ticker": "IIJI",
+      "price": 10.4349
+    },
+    {
+      "ticker": "QBAK",
+      "price": 10.3804
+    },
+    {
+      "ticker": "SVRA",
+      "price": 11.355
+    }
+  ]
+}

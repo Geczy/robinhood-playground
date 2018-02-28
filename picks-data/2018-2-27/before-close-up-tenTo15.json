@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "AQ",
+      "price": 14.361
+    },
+    {
+      "ticker": "JAG",
+      "price": 12.6
+    },
+    {
+      "ticker": "URA",
+      "price": 12.93
+    },
+    {
+      "ticker": "STAR",
+      "price": 10.37
+    },
+    {
+      "ticker": "ASA",
+      "price": 10.4182
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CATO",
+      "price": 11.42
+    },
+    {
+      "ticker": "VRA",
+      "price": 10
+    },
+    {
+      "ticker": "SCS",
+      "price": 14.45
+    },
+    {
+      "ticker": "TLYS",
+      "price": 13.26
+    },
+    {
+      "ticker": "URA",
+      "price": 12.92
+    }
+  ]
+}

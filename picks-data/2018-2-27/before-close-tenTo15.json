@@ -1,0 +1,22 @@
+{
+  "351": [
+    {
+      "ticker": "CO",
+      "price": 10.925
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CO",
+      "price": 10.96
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.25
+    }
+  ]
+}

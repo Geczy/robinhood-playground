@@ -1,0 +1,38 @@
+{
+  "45": [
+    {
+      "ticker": "CATS",
+      "price": 4.72
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.355
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.22
+    },
+    {
+      "ticker": "SB",
+      "price": 3.785
+    }
+  ],
+  "189": [
+    {
+      "ticker": "CATS",
+      "price": 4.6962
+    },
+    {
+      "ticker": "NDRO",
+      "price": 3.3879
+    },
+    {
+      "ticker": "CPLP",
+      "price": 3.21
+    },
+    {
+      "ticker": "SB",
+      "price": 3.86
+    }
+  ]
+}

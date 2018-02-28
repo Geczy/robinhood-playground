@@ -1,0 +1,86 @@
+{
+  "10": [
+    {
+      "ticker": "GIFI",
+      "price": 9.35
+    },
+    {
+      "ticker": "ERII",
+      "price": 6.76
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.067
+    },
+    {
+      "ticker": "MESO",
+      "price": 7.02
+    }
+  ],
+  "35": [
+    {
+      "ticker": "GIFI",
+      "price": 9.25
+    },
+    {
+      "ticker": "SLS",
+      "price": 5.0578
+    },
+    {
+      "ticker": "ERII",
+      "price": 6.88
+    },
+    {
+      "ticker": "MESO",
+      "price": 7
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.05
+    }
+  ],
+  "90": [
+    {
+      "ticker": "GIFI",
+      "price": 9
+    },
+    {
+      "ticker": "ERII",
+      "price": 6.7842
+    },
+    {
+      "ticker": "COE",
+      "price": 9.8
+    },
+    {
+      "ticker": "FSP",
+      "price": 7.975
+    },
+    {
+      "ticker": "MESO",
+      "price": 6.9562
+    }
+  ],
+  "223": [
+    {
+      "ticker": "GIFI",
+      "price": 8.5
+    },
+    {
+      "ticker": "ERII",
+      "price": 6.91
+    },
+    {
+      "ticker": "TZOO",
+      "price": 6.6527
+    },
+    {
+      "ticker": "COE",
+      "price": 9.89
+    },
+    {
+      "ticker": "RCII",
+      "price": 7.86
+    }
+  ]
+}

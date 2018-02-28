@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "AQB",
+      "price": 2.5675
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.8792
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.37
+    },
+    {
+      "ticker": "VLRX",
+      "price": 3.0131
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.2236
+    }
+  ],
+  "73": [
+    {
+      "ticker": "AQB",
+      "price": 2.51
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.8448
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.28
+    },
+    {
+      "ticker": "VLRX",
+      "price": 2.8506
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.14
+    }
+  ],
+  "196": [
+    {
+      "ticker": "AQB",
+      "price": 2.55
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.8135
+    },
+    {
+      "ticker": "ZN",
+      "price": 4.095
+    },
+    {
+      "ticker": "VLRX",
+      "price": 2.81
+    },
+    {
+      "ticker": "MNKD",
+      "price": 3.1484
+    }
+  ]
+}

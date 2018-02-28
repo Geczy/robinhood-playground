@@ -1,0 +1,46 @@
+{
+  "45": [
+    {
+      "ticker": "PIXY",
+      "price": 2.6371
+    },
+    {
+      "ticker": "ABIL",
+      "price": 0.4198
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.6844
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.205
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.6412
+    }
+  ],
+  "189": [
+    {
+      "ticker": "PIXY",
+      "price": 2.607
+    },
+    {
+      "ticker": "ABIL",
+      "price": 0.4205
+    },
+    {
+      "ticker": "CATB",
+      "price": 1.71
+    },
+    {
+      "ticker": "BPMX",
+      "price": 0.2275
+    },
+    {
+      "ticker": "NXTD",
+      "price": 2.5595
+    }
+  ]
+}

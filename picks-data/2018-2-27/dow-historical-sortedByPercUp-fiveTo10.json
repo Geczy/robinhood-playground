@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "HBP",
+      "price": 5.61
+    },
+    {
+      "ticker": "WVVI",
+      "price": 7.9804
+    },
+    {
+      "ticker": "EHT",
+      "price": 9.96
+    },
+    {
+      "ticker": "PMM",
+      "price": 7.19
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.295
+    }
+  ],
+  "73": [
+    {
+      "ticker": "HBP",
+      "price": 5.58
+    },
+    {
+      "ticker": "EHT",
+      "price": 9.92
+    },
+    {
+      "ticker": "WVVI",
+      "price": 7.9804
+    },
+    {
+      "ticker": "PMM",
+      "price": 7.165
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.25
+    }
+  ],
+  "196": [
+    {
+      "ticker": "HBP",
+      "price": 5.53
+    },
+    {
+      "ticker": "WVVI",
+      "price": 7.9816
+    },
+    {
+      "ticker": "EHT",
+      "price": 9.98
+    },
+    {
+      "ticker": "PMM",
+      "price": 7.13
+    },
+    {
+      "ticker": "CNFR",
+      "price": 5.3798
+    }
+  ]
+}

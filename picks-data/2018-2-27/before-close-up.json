@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "LPCN",
+      "price": 1.551
+    },
+    {
+      "ticker": "NSYS",
+      "price": 3.6536
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.1851
+    },
+    {
+      "ticker": "NAVB",
+      "price": 0.38
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.575
+    }
+  ],
+  "380": [
+    {
+      "ticker": "LPCN",
+      "price": 1.525
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.205
+    },
+    {
+      "ticker": "TCON",
+      "price": 2.15
+    },
+    {
+      "ticker": "SHLD",
+      "price": 2.555
+    },
+    {
+      "ticker": "NSYS",
+      "price": 3.6
+    }
+  ]
+}

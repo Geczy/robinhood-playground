@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "FLWS",
+      "price": 11.92
+    },
+    {
+      "ticker": "MNOV",
+      "price": 10.41
+    },
+    {
+      "ticker": "GAIA",
+      "price": 12.667
+    },
+    {
+      "ticker": "AMSWA",
+      "price": 12.79
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.51
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AQXP",
+      "price": 14
+    },
+    {
+      "ticker": "COHN",
+      "price": 11.02
+    },
+    {
+      "ticker": "FLWS",
+      "price": 12.1
+    },
+    {
+      "ticker": "MNOV",
+      "price": 10.46
+    },
+    {
+      "ticker": "FATE",
+      "price": 11.4425
+    }
+  ]
+}

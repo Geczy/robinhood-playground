@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "AIRG",
+      "price": 9.1581
+    },
+    {
+      "ticker": "TELL",
+      "price": 9.03
+    },
+    {
+      "ticker": "GOGO",
+      "price": 9.55
+    },
+    {
+      "ticker": "RCII",
+      "price": 7.8448
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.8
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AIRG",
+      "price": 9.22
+    },
+    {
+      "ticker": "TELL",
+      "price": 9
+    },
+    {
+      "ticker": "GOGO",
+      "price": 9.59
+    },
+    {
+      "ticker": "RCII",
+      "price": 7.745
+    },
+    {
+      "ticker": "TRIL",
+      "price": 6.95
+    }
+  ]
+}

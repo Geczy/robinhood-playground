@@ -72,8 +72,8 @@ module.exports = async Robinhood => {
                 }
                 if (newSegment && lastSegment !== newSegment) {
                     numSwings++;
-                    console.log(buy.ticker, 'now', newSegment);
-                    console.log('closing at ', hist.close_price, hist.begins_at);
+                    // console.log(buy.ticker, 'now', newSegment);
+                    // console.log('closing at ', hist.close_price, hist.begins_at);
                 }
                 lastSegment = newSegment || lastSegment;
             });

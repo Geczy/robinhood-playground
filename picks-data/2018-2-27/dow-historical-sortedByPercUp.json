@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "MYO",
+      "price": 3.8792
+    },
+    {
+      "ticker": "LYG",
+      "price": 3.91
+    },
+    {
+      "ticker": "CERS",
+      "price": 4.26
+    },
+    {
+      "ticker": "TNTR",
+      "price": 4.98
+    },
+    {
+      "ticker": "HIO",
+      "price": 4.91
+    }
+  ],
+  "73": [
+    {
+      "ticker": "CERS",
+      "price": 4.23
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.8448
+    },
+    {
+      "ticker": "LYG",
+      "price": 3.905
+    },
+    {
+      "ticker": "TNTR",
+      "price": 4.8451
+    },
+    {
+      "ticker": "ADOM",
+      "price": 1.24
+    }
+  ],
+  "196": [
+    {
+      "ticker": "CERS",
+      "price": 4.29
+    },
+    {
+      "ticker": "MYO",
+      "price": 3.8135
+    },
+    {
+      "ticker": "LYG",
+      "price": 3.905
+    },
+    {
+      "ticker": "OHAI",
+      "price": 1.299
+    },
+    {
+      "ticker": "TNTR",
+      "price": 4.63
+    }
+  ]
+}

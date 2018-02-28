@@ -1,0 +1,86 @@
+{
+  "10": [
+    {
+      "ticker": "VNRX",
+      "price": 2.67
+    },
+    {
+      "ticker": "SN",
+      "price": 3.57
+    },
+    {
+      "ticker": "AMRN",
+      "price": 3.5301
+    },
+    {
+      "ticker": "AST",
+      "price": 2.1999
+    }
+  ],
+  "35": [
+    {
+      "ticker": "CODX",
+      "price": 1.6
+    },
+    {
+      "ticker": "VNRX",
+      "price": 2.8699
+    },
+    {
+      "ticker": "SN",
+      "price": 3.495
+    },
+    {
+      "ticker": "AST",
+      "price": 2.175
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.52
+    }
+  ],
+  "90": [
+    {
+      "ticker": "VNRX",
+      "price": 2.679
+    },
+    {
+      "ticker": "CODX",
+      "price": 1.61
+    },
+    {
+      "ticker": "SN",
+      "price": 3.36
+    },
+    {
+      "ticker": "SLS",
+      "price": 4.9549
+    },
+    {
+      "ticker": "LITB",
+      "price": 2.3015
+    }
+  ],
+  "223": [
+    {
+      "ticker": "CODX",
+      "price": 1.578
+    },
+    {
+      "ticker": "SN",
+      "price": 3.33
+    },
+    {
+      "ticker": "HEB",
+      "price": 0.5
+    },
+    {
+      "ticker": "SLS",
+      "price": 4.9144
+    },
+    {
+      "ticker": "TGB",
+      "price": 1.4
+    }
+  ]
+}

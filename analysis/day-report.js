@@ -75,7 +75,8 @@ const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
             avgTrend,
             totalInvested: sumArray(stratTrans[strategyName].map(t => t.totalInvested)),
             dollarChange: sumArray(stratTrans[strategyName].map(t => t.dollarChange)),
-            transactions: stratTrans[strategyName]
+            transactions: stratTrans[strategyName],
+            tickers: stratTrans[strategyName].map(t => t.ticker)
         };
     });
     console.log(JSON.stringify(stratTrans, null, 2));
@@ -83,11 +84,12 @@ const sumArray = arr => arr.reduce((acc, val) => acc + val, 0);
     console.log('\nCurrent report for ', mostRecentDay);
     console.log('Strategies')
     Object.keys(stratTrans).forEach(strategyName => {
-        const { totalInvested, dollarChange, avgTrend } = stratTrans[strategyName];
+        const { totalInvested, dollarChange, avgTrend, tickers } = stratTrans[strategyName];
         console.log('\n' + strategyName);
         console.log('total invested: ', totalInvested);
         console.log('dollarChange: ', dollarChange);
         console.log('avg trend: ', avgTrend);
+        console.log('tickers: ', tickers);
         console.log('actual trend: ', getTrend(totalInvested + dollarChange, totalInvested));
     });
 
