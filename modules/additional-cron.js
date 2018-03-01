@@ -21,8 +21,8 @@ const additionalCronConfig = [
 
             setTimeout(async () => {
                 // daily at 6:30AM + 4 seconds
-                // await sellAllIfWentUp(Robinhood);
-                // console.log('done selling all');
+                await sellAllStocks(Robinhood);
+                console.log('done selling all');
                 //
                 timeoutPromise(10000);
                 console.log('selling all stocks that went up');
