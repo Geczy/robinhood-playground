@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "TECS",
+      "price": 5.26
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 9.9998
+    },
+    {
+      "ticker": "BZQ",
+      "price": 6.805
+    },
+    {
+      "ticker": "VIIZ",
+      "price": 7.03
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.05
+    }
+  ],
+  "250": [
+    {
+      "ticker": "TECS",
+      "price": 5.2
+    },
+    {
+      "ticker": "ZBIO",
+      "price": 9.9998
+    },
+    {
+      "ticker": "BZQ",
+      "price": 6.78
+    },
+    {
+      "ticker": "VIIZ",
+      "price": 7.03
+    },
+    {
+      "ticker": "DXD",
+      "price": 8.04
+    }
+  ]
+}

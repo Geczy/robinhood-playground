@@ -1,0 +1,81 @@
+{
+  "2": [],
+  "12": [
+    {
+      "ticker": "UPL",
+      "price": 4.1
+    }
+  ],
+  "75": [
+    {
+      "ticker": "XXII",
+      "price": 2.51
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.795
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.09
+    }
+  ],
+  "120": [
+    {
+      "ticker": "EGO",
+      "price": 1.09
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.82
+    },
+    {
+      "ticker": "BKS",
+      "price": 4.5
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.505
+    }
+  ],
+  "180": [
+    {
+      "ticker": "XXII",
+      "price": 2.56
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.83
+    },
+    {
+      "ticker": "LLNW",
+      "price": 4.02
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.09
+    }
+  ],
+  "380": [
+    {
+      "ticker": "LLNW",
+      "price": 4.05
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.52
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.795
+    },
+    {
+      "ticker": "P",
+      "price": 4.42
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.07
+    }
+  ]
+}

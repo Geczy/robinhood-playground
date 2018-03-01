@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "XENE",
+      "price": 3.75
+    },
+    {
+      "ticker": "CGNT",
+      "price": 2.955
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.8639
+    },
+    {
+      "ticker": "LLEX",
+      "price": 3.78
+    },
+    {
+      "ticker": "OBE",
+      "price": 0.9741
+    }
+  ],
+  "73": [
+    {
+      "ticker": "XENE",
+      "price": 3.705
+    },
+    {
+      "ticker": "JVA",
+      "price": 4.3685
+    },
+    {
+      "ticker": "CGNT",
+      "price": 3.015
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.85
+    },
+    {
+      "ticker": "LLEX",
+      "price": 3.7
+    }
+  ],
+  "196": [
+    {
+      "ticker": "XENE",
+      "price": 3.75
+    },
+    {
+      "ticker": "JVA",
+      "price": 4.33
+    },
+    {
+      "ticker": "CGNT",
+      "price": 3.04
+    },
+    {
+      "ticker": "LLEX",
+      "price": 3.76
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.85
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "10": [
+    {
+      "ticker": "CKPT",
+      "price": 4.12
+    },
+    {
+      "ticker": "RXII",
+      "price": 2.8107
+    },
+    {
+      "ticker": "AAV",
+      "price": 2.875
+    },
+    {
+      "ticker": "OZM",
+      "price": 2.5662
+    },
+    {
+      "ticker": "EYES",
+      "price": 1.44
+    }
+  ],
+  "35": [
+    {
+      "ticker": "UPL",
+      "price": 3.88
+    },
+    {
+      "ticker": "CKPT",
+      "price": 4.4138
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.3698
+    },
+    {
+      "ticker": "THM",
+      "price": 0.45
+    },
+    {
+      "ticker": "VNRX",
+      "price": 3.18
+    }
+  ],
+  "90": [
+    {
+      "ticker": "UPL",
+      "price": 3.815
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.052
+    },
+    {
+      "ticker": "ESV",
+      "price": 4.54
+    },
+    {
+      "ticker": "MYOS",
+      "price": 1.355
+    },
+    {
+      "ticker": "CHK",
+      "price": 2.83
+    }
+  ],
+  "223": [
+    {
+      "ticker": "UPL",
+      "price": 3.655
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.05
+    },
+    {
+      "ticker": "VNRX",
+      "price": 3.0553
+    },
+    {
+      "ticker": "SGBX",
+      "price": 4
+    },
+    {
+      "ticker": "ESV",
+      "price": 4.52
+    }
+  ]
+}

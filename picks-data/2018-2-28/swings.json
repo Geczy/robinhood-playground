@@ -1,0 +1,46 @@
+{
+  "193": [
+    {
+      "ticker": "HTBX",
+      "price": 2.64
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.16
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.275
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.965
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.475
+    }
+  ],
+  "253": [
+    {
+      "ticker": "HTBX",
+      "price": 2.6
+    },
+    {
+      "ticker": "ARDM",
+      "price": 1.16
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.275
+    },
+    {
+      "ticker": "SBGL",
+      "price": 3.935
+    },
+    {
+      "ticker": "IPI",
+      "price": 3.495
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "200": [
+    {
+      "ticker": "SCWX",
+      "price": 9.7495
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.305
+    },
+    {
+      "ticker": "AROC",
+      "price": 9.8
+    },
+    {
+      "ticker": "PBT",
+      "price": 9.25
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.805
+    }
+  ],
+  "260": [
+    {
+      "ticker": "AROC",
+      "price": 9.6
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.23
+    },
+    {
+      "ticker": "CDE",
+      "price": 7.75
+    },
+    {
+      "ticker": "PBT",
+      "price": 9.185
+    },
+    {
+      "ticker": "SCWX",
+      "price": 9.9002
+    }
+  ]
+}

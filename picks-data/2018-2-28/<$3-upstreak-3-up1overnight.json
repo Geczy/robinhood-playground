@@ -1,0 +1,46 @@
+{
+  "45": [
+    {
+      "ticker": "NIHD",
+      "price": 1.38
+    },
+    {
+      "ticker": "LPCN",
+      "price": 1.59
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.84
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.42
+    },
+    {
+      "ticker": "GSAT",
+      "price": 0.9725
+    }
+  ],
+  "189": [
+    {
+      "ticker": "NIHD",
+      "price": 1.2998
+    },
+    {
+      "ticker": "LPCN",
+      "price": 1.7701
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.8901
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.8
+    },
+    {
+      "ticker": "APHB",
+      "price": 1.3761
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "351": [
+    {
+      "ticker": "JCTCF",
+      "price": 14.7
+    },
+    {
+      "ticker": "DGZ",
+      "price": 13.54
+    },
+    {
+      "ticker": "CIX",
+      "price": 14.25
+    }
+  ],
+  "381": [
+    {
+      "ticker": "CIX",
+      "price": 13.8
+    },
+    {
+      "ticker": "DGZ",
+      "price": 13.54
+    },
+    {
+      "ticker": "JCTCF",
+      "price": 14.7
+    }
+  ]
+}

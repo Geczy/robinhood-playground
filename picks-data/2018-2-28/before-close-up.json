@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "NIHD",
+      "price": 1.28
+    },
+    {
+      "ticker": "OMNT",
+      "price": 3.3701
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.8
+    },
+    {
+      "ticker": "XPL",
+      "price": 0.4945
+    },
+    {
+      "ticker": "VTGN",
+      "price": 1.19
+    }
+  ],
+  "380": [
+    {
+      "ticker": "NIHD",
+      "price": 1.31
+    },
+    {
+      "ticker": "EGLT",
+      "price": 0.7532
+    },
+    {
+      "ticker": "OMNT",
+      "price": 3.37
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.785
+    },
+    {
+      "ticker": "AT",
+      "price": 2.125
+    }
+  ]
+}

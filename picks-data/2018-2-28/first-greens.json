@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "AKTX",
+      "price": 2.019
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.3083
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.29
+    },
+    {
+      "ticker": "CBAK",
+      "price": 1.395
+    },
+    {
+      "ticker": "NURO",
+      "price": 1.3499
+    }
+  ],
+  "250": [
+    {
+      "ticker": "AKTX",
+      "price": 2.04
+    },
+    {
+      "ticker": "LODE",
+      "price": 0.3126
+    },
+    {
+      "ticker": "LABD",
+      "price": 3.275
+    },
+    {
+      "ticker": "CBAK",
+      "price": 1.395
+    },
+    {
+      "ticker": "NURO",
+      "price": 1.351
+    }
+  ]
+}

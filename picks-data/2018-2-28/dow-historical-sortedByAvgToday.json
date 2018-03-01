@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "LEDS",
+      "price": 4.1538
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.4099
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.0502
+    },
+    {
+      "ticker": "VHC",
+      "price": 3.95
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.8639
+    }
+  ],
+  "73": [
+    {
+      "ticker": "LEDS",
+      "price": 4.222
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.408
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.05
+    },
+    {
+      "ticker": "VHC",
+      "price": 4
+    },
+    {
+      "ticker": "KONA",
+      "price": 1.85
+    }
+  ],
+  "196": [
+    {
+      "ticker": "LEDS",
+      "price": 4.18
+    },
+    {
+      "ticker": "GENE",
+      "price": 1.45
+    },
+    {
+      "ticker": "STRM",
+      "price": 1.8596
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.0598
+    },
+    {
+      "ticker": "VHC",
+      "price": 4
+    }
+  ]
+}

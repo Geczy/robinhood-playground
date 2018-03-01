@@ -1,0 +1,46 @@
+{
+  "190": [
+    {
+      "ticker": "DWT",
+      "price": 11.9202
+    },
+    {
+      "ticker": "WTID",
+      "price": 12.93
+    },
+    {
+      "ticker": "ERY",
+      "price": 10.26
+    },
+    {
+      "ticker": "XIVH",
+      "price": 13.1
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.15
+    }
+  ],
+  "250": [
+    {
+      "ticker": "DWT",
+      "price": 11.897
+    },
+    {
+      "ticker": "WTID",
+      "price": 12.77
+    },
+    {
+      "ticker": "ERY",
+      "price": 10.3286
+    },
+    {
+      "ticker": "XIVH",
+      "price": 13.05
+    },
+    {
+      "ticker": "SPXU",
+      "price": 10.1
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "10": [
+    {
+      "ticker": "COE",
+      "price": 9.7
+    },
+    {
+      "ticker": "PFSW",
+      "price": 7.08
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.445
+    }
+  ],
+  "35": [
+    {
+      "ticker": "COE",
+      "price": 9.57
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.34
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.35
+    },
+    {
+      "ticker": "CMRE",
+      "price": 5.9549
+    },
+    {
+      "ticker": "AROC",
+      "price": 9.85
+    }
+  ],
+  "90": [
+    {
+      "ticker": "XNY",
+      "price": 5.5699
+    },
+    {
+      "ticker": "JT",
+      "price": 6.685
+    },
+    {
+      "ticker": "NBR",
+      "price": 6.34
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.195
+    },
+    {
+      "ticker": "NL",
+      "price": 8.1681
+    }
+  ],
+  "223": [
+    {
+      "ticker": "XNY",
+      "price": 5.02
+    },
+    {
+      "ticker": "JT",
+      "price": 6.685
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.25
+    },
+    {
+      "ticker": "MDCA",
+      "price": 8.055
+    },
+    {
+      "ticker": "HIMX",
+      "price": 8.27
+    }
+  ]
+}

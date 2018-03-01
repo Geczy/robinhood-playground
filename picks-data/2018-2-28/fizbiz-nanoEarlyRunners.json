@@ -1,0 +1,126 @@
+{
+  "2": [
+    {
+      "ticker": "ABIO",
+      "price": 0.7401
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.0794
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1051
+    }
+  ],
+  "12": [
+    {
+      "ticker": "ABIO",
+      "price": 0.7398
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.189
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.0795
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1051
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.3
+    }
+  ],
+  "75": [
+    {
+      "ticker": "ABIO",
+      "price": 0.8731
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.0912
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3201
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.205
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.258
+    }
+  ],
+  "120": [
+    {
+      "ticker": "ABIO",
+      "price": 0.9102
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.2448
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3232
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.09
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1242
+    }
+  ],
+  "180": [
+    {
+      "ticker": "ABIO",
+      "price": 0.8878
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.2605
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.0922
+    },
+    {
+      "ticker": "BIOC",
+      "price": 0.3267
+    },
+    {
+      "ticker": "FCSC",
+      "price": 0.5979
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ABIO",
+      "price": 0.8099
+    },
+    {
+      "ticker": "NVCN",
+      "price": 0.23
+    },
+    {
+      "ticker": "CEI",
+      "price": 0.089
+    },
+    {
+      "ticker": "JRJR",
+      "price": 0.1249
+    },
+    {
+      "ticker": "EARS",
+      "price": 0.255
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "2": [
+    {
+      "ticker": "NSPR",
+      "price": 2.531
+    },
+    {
+      "ticker": "ZX",
+      "price": 1.06
+    },
+    {
+      "ticker": "BYFC",
+      "price": 1.9708
+    },
+    {
+      "ticker": "MOSY",
+      "price": 1.4734
+    },
+    {
+      "ticker": "SN",
+      "price": 3.2535
+    }
+  ],
+  "12": [
+    {
+      "ticker": "NVAX",
+      "price": 2.13
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.2601
+    },
+    {
+      "ticker": "TA",
+      "price": 3.508
+    },
+    {
+      "ticker": "GNMK",
+      "price": 4.381
+    },
+    {
+      "ticker": "SQBG",
+      "price": 2.0474
+    }
+  ],
+  "75": [
+    {
+      "ticker": "SQBG",
+      "price": 1.9837
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.1901
+    },
+    {
+      "ticker": "GNMK",
+      "price": 4.2
+    },
+    {
+      "ticker": "TA",
+      "price": 3.575
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.07
+    }
+  ],
+  "120": [
+    {
+      "ticker": "GNMK",
+      "price": 4.08
+    },
+    {
+      "ticker": "INPX",
+      "price": 1.1901
+    },
+    {
+      "ticker": "CHCI",
+      "price": 1.6956
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.975
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.04
+    }
+  ],
+  "180": [
+    {
+      "ticker": "GNMK",
+      "price": 4.1
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.995
+    },
+    {
+      "ticker": "RESN",
+      "price": 4.07
+    },
+    {
+      "ticker": "UUU",
+      "price": 1.275
+    },
+    {
+      "ticker": "ODP",
+      "price": 2.645
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CYH",
+      "price": 5.01
+    },
+    {
+      "ticker": "GNMK",
+      "price": 4.24
+    },
+    {
+      "ticker": "UPL",
+      "price": 3.615
+    },
+    {
+      "ticker": "BBG",
+      "price": 4.58
+    },
+    {
+      "ticker": "SQBG",
+      "price": 1.9948
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "45": [
+    {
+      "ticker": "APHB",
+      "price": 1.42
+    },
+    {
+      "ticker": "NIHD",
+      "price": 1.38
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.04
+    },
+    {
+      "ticker": "SDT",
+      "price": 0.82
+    },
+    {
+      "ticker": "APTO",
+      "price": 2.77
+    }
+  ],
+  "189": [
+    {
+      "ticker": "APHB",
+      "price": 1.3761
+    },
+    {
+      "ticker": "NIHD",
+      "price": 1.2998
+    },
+    {
+      "ticker": "SUNW",
+      "price": 1.06
+    },
+    {
+      "ticker": "SDT",
+      "price": 0.82
+    },
+    {
+      "ticker": "APTO",
+      "price": 2.7694
+    }
+  ]
+}

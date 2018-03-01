@@ -1,0 +1,74 @@
+{
+  "7": [
+    {
+      "ticker": "BIOS",
+      "price": 3.17
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.405
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.81
+    }
+  ],
+  "60": [
+    {
+      "ticker": "BIOS",
+      "price": 3.155
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.24
+    },
+    {
+      "ticker": "TNDM",
+      "price": 3.1767
+    },
+    {
+      "ticker": "MBRX",
+      "price": 2.06
+    }
+  ],
+  "123": [
+    {
+      "ticker": "BIOS",
+      "price": 3.165
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.1875
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.345
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.795
+    },
+    {
+      "ticker": "TNDM",
+      "price": 3.095
+    }
+  ],
+  "263": [
+    {
+      "ticker": "BIOS",
+      "price": 3.145
+    },
+    {
+      "ticker": "JCP",
+      "price": 4.235
+    },
+    {
+      "ticker": "ACHN",
+      "price": 3.29
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.83
+    }
+  ]
+}

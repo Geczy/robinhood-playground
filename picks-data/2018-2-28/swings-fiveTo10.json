@@ -1,0 +1,46 @@
+{
+  "193": [
+    {
+      "ticker": "RARX",
+      "price": 6.3835
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.45
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.31
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.3
+    },
+    {
+      "ticker": "SFS",
+      "price": 7.45
+    }
+  ],
+  "253": [
+    {
+      "ticker": "RARX",
+      "price": 6.47
+    },
+    {
+      "ticker": "INSE",
+      "price": 5.4
+    },
+    {
+      "ticker": "TVIX",
+      "price": 8.11
+    },
+    {
+      "ticker": "ROSE",
+      "price": 6.26
+    },
+    {
+      "ticker": "SFS",
+      "price": 7.425
+    }
+  ]
+}

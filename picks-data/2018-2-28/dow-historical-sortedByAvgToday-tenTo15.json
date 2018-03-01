@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "CARA",
+      "price": 14.2
+    },
+    {
+      "ticker": "IFMK",
+      "price": 11.4
+    },
+    {
+      "ticker": "VRA",
+      "price": 10.17
+    },
+    {
+      "ticker": "DWT",
+      "price": 11.43
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.2
+    }
+  ],
+  "73": [
+    {
+      "ticker": "CARA",
+      "price": 14.327
+    },
+    {
+      "ticker": "IFMK",
+      "price": 11.4
+    },
+    {
+      "ticker": "VRA",
+      "price": 10.0414
+    },
+    {
+      "ticker": "DWT",
+      "price": 11.9775
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.225
+    }
+  ],
+  "196": [
+    {
+      "ticker": "CARA",
+      "price": 14.6499
+    },
+    {
+      "ticker": "IFMK",
+      "price": 11.3835
+    },
+    {
+      "ticker": "VRA",
+      "price": 10.13
+    },
+    {
+      "ticker": "DWT",
+      "price": 11.811
+    },
+    {
+      "ticker": "QUOT",
+      "price": 13.225
+    }
+  ]
+}

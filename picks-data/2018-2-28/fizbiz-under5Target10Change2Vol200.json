@@ -1,0 +1,97 @@
+{
+  "2": [],
+  "12": [
+    {
+      "ticker": "UPL",
+      "price": 4.09
+    }
+  ],
+  "75": [
+    {
+      "ticker": "GERN",
+      "price": 2.3678
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.525
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.51
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.795
+    },
+    {
+      "ticker": "BCRX",
+      "price": 4.92
+    }
+  ],
+  "120": [
+    {
+      "ticker": "GERN",
+      "price": 2.42
+    },
+    {
+      "ticker": "PDLI",
+      "price": 2.505
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.09
+    },
+    {
+      "ticker": "BCRX",
+      "price": 4.965
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.82
+    }
+  ],
+  "180": [
+    {
+      "ticker": "GERN",
+      "price": 2.46
+    },
+    {
+      "ticker": "XXII",
+      "price": 2.56
+    },
+    {
+      "ticker": "IDRA",
+      "price": 1.83
+    },
+    {
+      "ticker": "LLNW",
+      "price": 4.02
+    },
+    {
+      "ticker": "EGO",
+      "price": 1.09
+    }
+  ],
+  "380": [
+    {
+      "ticker": "ACTA",
+      "price": 1.04
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.73
+    },
+    {
+      "ticker": "LLNW",
+      "price": 4.05
+    },
+    {
+      "ticker": "GERN",
+      "price": 2.3389
+    },
+    {
+      "ticker": "TAHO",
+      "price": 4.88
+    }
+  ]
+}

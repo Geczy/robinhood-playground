@@ -1,0 +1,68 @@
+{
+  "5": [
+    {
+      "ticker": "LPCN",
+      "price": 1.6218
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.8574
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.81
+    },
+    {
+      "ticker": "NIHD",
+      "price": 1.389
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.66
+    }
+  ],
+  "16": [
+    {
+      "ticker": "LPCN",
+      "price": 1.5892
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.8262
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.78
+    },
+    {
+      "ticker": "NIHD",
+      "price": 1.3508
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.64
+    }
+  ],
+  "30": [
+    {
+      "ticker": "LPCN",
+      "price": 1.61
+    },
+    {
+      "ticker": "AKER",
+      "price": 0.85
+    },
+    {
+      "ticker": "TRVN",
+      "price": 1.82
+    },
+    {
+      "ticker": "NIHD",
+      "price": 1.3717
+    },
+    {
+      "ticker": "BLDP",
+      "price": 3.6099
+    }
+  ]
+}

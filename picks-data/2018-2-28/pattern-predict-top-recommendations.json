@@ -1,0 +1,24 @@
+{
+  "3": [
+    {
+      "ticker": "SDPI",
+      "price": 1.55
+    },
+    {
+      "ticker": "WLB",
+      "price": 0.47
+    },
+    {
+      "ticker": "RVP",
+      "price": 0.9102
+    },
+    {
+      "ticker": "WHZT",
+      "price": 1.37
+    },
+    {
+      "ticker": "WRN",
+      "price": 0.8799
+    }
+  ]
+}

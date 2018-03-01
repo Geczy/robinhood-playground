@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "CSU",
+      "price": 11.59
+    },
+    {
+      "ticker": "RRC",
+      "price": 13.23
+    },
+    {
+      "ticker": "SBS",
+      "price": 11.59
+    },
+    {
+      "ticker": "XOG",
+      "price": 12.38
+    },
+    {
+      "ticker": "SMMT",
+      "price": 12.3523
+    }
+  ],
+  "380": [
+    {
+      "ticker": "CSU",
+      "price": 11.79
+    },
+    {
+      "ticker": "RRC",
+      "price": 13.295
+    },
+    {
+      "ticker": "SVXY",
+      "price": 12.3062
+    },
+    {
+      "ticker": "SBS",
+      "price": 11.53
+    },
+    {
+      "ticker": "BWP",
+      "price": 11.27
+    }
+  ]
+}

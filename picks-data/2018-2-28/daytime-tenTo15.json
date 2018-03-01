@@ -1,0 +1,26 @@
+{
+  "200": [
+    {
+      "ticker": "CROX",
+      "price": 12.14
+    }
+  ],
+  "260": [
+    {
+      "ticker": "CROX",
+      "price": 12.1
+    },
+    {
+      "ticker": "CO",
+      "price": 10.525
+    },
+    {
+      "ticker": "APLP",
+      "price": 13.43
+    },
+    {
+      "ticker": "AQ",
+      "price": 13.998
+    }
+  ]
+}

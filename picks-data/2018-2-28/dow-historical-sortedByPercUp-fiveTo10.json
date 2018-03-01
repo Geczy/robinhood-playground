@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "SNDX",
+      "price": 9.06
+    },
+    {
+      "ticker": "PCTI",
+      "price": 7.16
+    },
+    {
+      "ticker": "CYRX",
+      "price": 8.8115
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.065
+    },
+    {
+      "ticker": "LXRX",
+      "price": 8.62
+    }
+  ],
+  "73": [
+    {
+      "ticker": "SNDX",
+      "price": 9.095
+    },
+    {
+      "ticker": "PCTI",
+      "price": 7.2
+    },
+    {
+      "ticker": "CYRX",
+      "price": 8.8
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.01
+    },
+    {
+      "ticker": "LXRX",
+      "price": 8.54
+    }
+  ],
+  "196": [
+    {
+      "ticker": "SNDX",
+      "price": 9.14
+    },
+    {
+      "ticker": "PCTI",
+      "price": 7.11
+    },
+    {
+      "ticker": "CYRX",
+      "price": 8.85
+    },
+    {
+      "ticker": "SFUN",
+      "price": 5.055
+    },
+    {
+      "ticker": "LXRX",
+      "price": 8.75
+    }
+  ]
+}

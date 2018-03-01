@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "XON",
+      "price": 13.05
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.19
+    },
+    {
+      "ticker": "NXJ",
+      "price": 13.13
+    },
+    {
+      "ticker": "BYM",
+      "price": 13.31
+    },
+    {
+      "ticker": "PI",
+      "price": 13.45
+    }
+  ],
+  "73": [
+    {
+      "ticker": "XON",
+      "price": 13.04
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.34
+    },
+    {
+      "ticker": "NXJ",
+      "price": 13.12
+    },
+    {
+      "ticker": "MPA",
+      "price": 13.749
+    },
+    {
+      "ticker": "BYM",
+      "price": 13.2799
+    }
+  ],
+  "196": [
+    {
+      "ticker": "XON",
+      "price": 13.182
+    },
+    {
+      "ticker": "WOW",
+      "price": 10.11
+    },
+    {
+      "ticker": "TVIZ",
+      "price": 11.29
+    },
+    {
+      "ticker": "NXJ",
+      "price": 13.1073
+    },
+    {
+      "ticker": "BYM",
+      "price": 13.26
+    }
+  ]
+}

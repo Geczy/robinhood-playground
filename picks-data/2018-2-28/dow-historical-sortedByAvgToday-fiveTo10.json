@@ -1,0 +1,68 @@
+{
+  "13": [
+    {
+      "ticker": "SNDX",
+      "price": 9.06
+    },
+    {
+      "ticker": "SRNE",
+      "price": 8.575
+    },
+    {
+      "ticker": "NLNK",
+      "price": 7.08
+    },
+    {
+      "ticker": "GLMD",
+      "price": 5.15
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.22
+    }
+  ],
+  "73": [
+    {
+      "ticker": "SNDX",
+      "price": 9.095
+    },
+    {
+      "ticker": "SRNE",
+      "price": 8.625
+    },
+    {
+      "ticker": "NLNK",
+      "price": 7.19
+    },
+    {
+      "ticker": "GLMD",
+      "price": 5.35
+    },
+    {
+      "ticker": "FENG",
+      "price": 5.24
+    }
+  ],
+  "196": [
+    {
+      "ticker": "SNDX",
+      "price": 9.14
+    },
+    {
+      "ticker": "SRNE",
+      "price": 8.425
+    },
+    {
+      "ticker": "NLNK",
+      "price": 7.33
+    },
+    {
+      "ticker": "GLMD",
+      "price": 5.03
+    },
+    {
+      "ticker": "NETS",
+      "price": 7.95
+    }
+  ]
+}

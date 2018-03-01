@@ -1,0 +1,82 @@
+{
+  "10": [
+    {
+      "ticker": "RDC",
+      "price": 12.57
+    },
+    {
+      "ticker": "AKAO",
+      "price": 10.39
+    },
+    {
+      "ticker": "TAST",
+      "price": 13
+    }
+  ],
+  "35": [
+    {
+      "ticker": "AKAO",
+      "price": 10.33
+    },
+    {
+      "ticker": "SE",
+      "price": 11.35
+    },
+    {
+      "ticker": "CTRE",
+      "price": 13.61
+    },
+    {
+      "ticker": "GTN",
+      "price": 14.15
+    },
+    {
+      "ticker": "LAKE",
+      "price": 12.9308
+    }
+  ],
+  "90": [
+    {
+      "ticker": "AKAO",
+      "price": 10.29
+    },
+    {
+      "ticker": "SE",
+      "price": 10.8899
+    },
+    {
+      "ticker": "TAST",
+      "price": 12.3
+    },
+    {
+      "ticker": "GTN",
+      "price": 13.55
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.3
+    }
+  ],
+  "223": [
+    {
+      "ticker": "SE",
+      "price": 10.8201
+    },
+    {
+      "ticker": "PHII",
+      "price": 10.3
+    },
+    {
+      "ticker": "CSU",
+      "price": 11.72
+    },
+    {
+      "ticker": "SSP",
+      "price": 14.24
+    },
+    {
+      "ticker": "RRC",
+      "price": 13.425
+    }
+  ]
+}

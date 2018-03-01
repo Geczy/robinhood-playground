@@ -1,0 +1,46 @@
+{
+  "350": [
+    {
+      "ticker": "TTOO",
+      "price": 5.335
+    },
+    {
+      "ticker": "XNY",
+      "price": 5.02
+    },
+    {
+      "ticker": "SPWR",
+      "price": 7.12
+    },
+    {
+      "ticker": "PIRS",
+      "price": 8.57
+    },
+    {
+      "ticker": "OIL",
+      "price": 6.8
+    }
+  ],
+  "380": [
+    {
+      "ticker": "TTOO",
+      "price": 5.29
+    },
+    {
+      "ticker": "WHLR",
+      "price": 5.02
+    },
+    {
+      "ticker": "XNY",
+      "price": 5.02
+    },
+    {
+      "ticker": "CLNS",
+      "price": 7.74
+    },
+    {
+      "ticker": "CRVS",
+      "price": 8.22
+    }
+  ]
+}

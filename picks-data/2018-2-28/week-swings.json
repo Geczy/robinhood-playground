@@ -1,0 +1,64 @@
+{
+  "1": [
+    {
+      "ticker": "PRPO",
+      "price": 0.62
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.405
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.15
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.9648
+    }
+  ],
+  "169": [
+    {
+      "ticker": "PRPO",
+      "price": 0.62
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.92
+    },
+    {
+      "ticker": "TENX",
+      "price": 4.675
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.38
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.25
+    }
+  ],
+  "273": [
+    {
+      "ticker": "PRPO",
+      "price": 0.6151
+    },
+    {
+      "ticker": "GNMX",
+      "price": 1.925
+    },
+    {
+      "ticker": "TENX",
+      "price": 4.65
+    },
+    {
+      "ticker": "ENT",
+      "price": 1.375
+    },
+    {
+      "ticker": "CLIR",
+      "price": 2.25
+    }
+  ]
+}
